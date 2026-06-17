@@ -1,0 +1,14 @@
+{
+  "name": "shopez-project",
+  "version": "1.0.0",
+  "description": "Root configuration for ShopEZ MERN E-Commerce App",
+  "scripts": {
+    "backend": "npm start --prefix backend",
+    "backend-dev": "npm run dev --prefix backend",
+    "frontend": "npm run dev --prefix frontend",
+    "dev": "concurrently \"npm run dev --prefix backend\" \"npm run dev --prefix frontend\""
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
