@@ -28,10 +28,23 @@ models/
 routes/
 controllers/
 
-## Screeenshots
+## Screenshots
 
 ## Register page
 <img width="1152" height="1020" alt="Screenshot 2026-06-17 152559" src="https://github.com/user-attachments/assets/c1bc115d-78de-4ac4-8f68-77001392e7d5" />
+## Order and Cart page
+<img width="1140" height="905" alt="Screenshot 2026-06-17 153145" src="https://github.com/user-attachments/assets/c89a7cd5-bd35-45c2-bbe7-9137468592cf" /> <img width="1145" height="831" alt="Screenshot 2026-06-17 153246" src="https://github.com/user-attachments/assets/624062fc-b1bd-4845-9b20-d4faa692d0a8" />
+## Seller Control pages
+<img width="1143" height="748" alt="Screenshot 2026-06-17 153515" src="https://github.com/user-attachments/assets/4ea460fd-c904-4e20-8f17-0c6154f930ed" />
+<img width="1142" height="903" alt="Screenshot 2026-06-17 153353" src="https://github.com/user-attachments/assets/a40c9707-16e8-41e7-9b3f-16fdfa3a151e" /><img width="1140" height="617" alt="Screenshot 2026-06-17 153556" src="https://github.com/user-attachments/assets/c215d4f6-54b1-4ec2-992e-e6eb98632bfe" />
+## Backend & Database
+<img width="1151" height="182" alt="Screenshot 2026-06-17 153729" src="https://github.com/user-attachments/assets/d44c18ba-e770-4a76-8963-237af5ca799e" /><img width="1352" height="738" alt="image" src="https://github.com/user-attachments/assets/2251de13-ef86-4c1e-8974-467dd5997fb9" />
+
+
+
+## Live demo 
+https://shopez-ecommerce-rosy.vercel.app/
+NOTE- Frontend deployes on Vercel. Backend runs locally and is not deployed. API- dependent features (login, products, orders, etc.) require the backend server 
 
 
 ## Run Locally
@@ -60,7 +73,7 @@ JWT_SECRET=replace_with_a_long_secret
 npm run dev
 ```
 
-Frontend: `http://localhost:5173`
+Frontend: `http://localhost:3000`
 
 Backend API: `http://localhost:5000/api`
 
