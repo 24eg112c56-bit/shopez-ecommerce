@@ -2,6 +2,10 @@
 
 ShopEZ is a full-stack shopping application built with MongoDB, Express, React, and Node.js. Buyers can browse products, search and filter the catalog, manage a cart, place simulated wallet orders, and review products. Sellers can manage inventory, update order status, and view sales analytics.
 
+## DOCUMENTATION
+[ShopEZ project  MERN.docx](https://github.com/user-attachments/files/29058776/ShopEZ.project.MERN.docx)
+
+
 ## Features
 
 - JWT authentication with buyer and seller roles
