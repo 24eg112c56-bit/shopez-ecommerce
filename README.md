@@ -10,6 +10,29 @@ ShopEZ is a full-stack shopping application built with MongoDB, Express, React, 
 - Buyer order history with shipping details and order status
 - Seller dashboard for product CRUD, incoming orders, and Chart.js analytics
 - MongoDB seeding for a default seller and sample product catalog
+- Order Management
+- Responsive UI
+- MongoDB Database Integration
+
+## Tech Stack
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+
+## Project Structure
+client/
+server/
+models/
+routes/
+controllers/
+
+## Screeenshots
+
+## Register page
+<img width="1152" height="1020" alt="Screenshot 2026-06-17 152559" src="https://github.com/user-attachments/assets/c1bc115d-78de-4ac4-8f68-77001392e7d5" />
+
 
 ## Run Locally
 
