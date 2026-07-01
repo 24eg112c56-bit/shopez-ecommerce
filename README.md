@@ -2,6 +2,10 @@
 
 ShopEZ is a full-stack shopping application built with MongoDB, Express, React, and Node.js. Buyers can browse products, search and filter the catalog, manage a cart, place simulated wallet orders, and review products. Sellers can manage inventory, update order status, and view sales analytics.
 
+## DOCUMENTATION
+[ShopEZ project  MERN.docx](https://github.com/user-attachments/files/29058776/ShopEZ.project.MERN.docx)
+
+
 ## Features
 
 - JWT authentication with buyer and seller roles
@@ -10,6 +14,33 @@ ShopEZ is a full-stack shopping application built with MongoDB, Express, React, 
 - Buyer order history with shipping details and order status
 - Seller dashboard for product CRUD, incoming orders, and Chart.js analytics
 - MongoDB seeding for a default seller and sample product catalog
+- Order Management
+- Responsive UI
+- MongoDB Database Integration
+
+## Technical Architecture, ER diagram, MVC architecture
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bb781816-6953-4194-b6ce-a7117eda8441" />
+
+
+## Tech Stack
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+
+## Project Structure
+client/
+server/
+models/
+routes/
+controllers/
+
+
+## Live demo 
+https://shopez-ecommerce-rosy.vercel.app/
+NOTE- Frontend deployes on Vercel. Backend runs locally and is not deployed. API- dependent features (login, products, orders, etc.) require the backend server 
+
 
 ## Run Locally
 
@@ -37,7 +68,7 @@ JWT_SECRET=replace_with_a_long_secret
 npm run dev
 ```
 
-Frontend: `http://localhost:5173`
+Frontend: `http://localhost:3000`
 
 Backend API: `http://localhost:5000/api`
 
