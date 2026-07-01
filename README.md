@@ -10,23 +10,23 @@ This project includes a structured set of phase-wise templates and design docume
 
 📁 Phase-wise Templates
 
-Brainstorming & Ideation Phase:
+# Brainstorming & Ideation Phase:
 - [Brainstorming - Idea Generation.docx](https://github.com/user-attachments/files/29555396/Brainstorming.-.Idea.Generation.docx)
 - [Define Problem Statement.docx](https://github.com/user-attachments/files/29555408/Define.Problem.Statement.docx)
 - [Empathy Map Canvas.pdf](https://github.com/user-attachments/files/29555414/Empathy.Map.Canvas.pdf)
-  Project Design Phase:
+ # Project Design Phase:
 - [Problem - Solution Fit.pdf](https://github.com/user-attachments/files/29555421/Problem.-.Solution.Fit.pdf)
 - [Proposed Solution.pdf](https://github.com/user-attachments/files/29555435/Proposed.Solution.pdf)
 - [Solution Architecture.pdf](https://github.com/user-attachments/files/29555444/Solution.Architecture.pdf)
-  Project Development:
+ # Project Development:
 - [User Acceptance Testing.pdf](https://github.com/user-attachments/files/29555450/User.Acceptance.Testing.pdf)
-  Project Planning Phase:
+  # Project Planning Phase:
 - [Project Planning.pdf](https://github.com/user-attachments/files/29555462/Project.Planning.pdf)
-  Requirement Analysis:
+  #Requirement Analysis:
 - [Data Flow Diagrams.pdf](https://github.com/user-attachments/files/29555479/Data.Flow.Diagrams.pdf)
 - [Solution Requirements.pdf](https://github.com/user-attachments/files/29555480/Solution.Requirements.pdf)
 - [Technology Stack.pdf](https://github.com/user-attachments/files/29555485/Technology.Stack.pdf)
-  📁 Project Documentation Reference
+  # 📁 Project Documentation Reference
   [FSD Documentation Format.pdf](https://github.com/user-attachments/files/29555494/FSD.Documentation.Format.pdf)
 
 
